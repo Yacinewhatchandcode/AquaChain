@@ -1,0 +1,7 @@
+file 'mockups/dashboard.png'
+duration 56.44689333333333333333
+file 'mockups/mobile_rights.png'
+duration 56.44689333333333333333
+file 'mockups/alert_proof.png'
+duration 56.44689333333333333333
+file 'mockups/alert_proof.png'
